@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompDecom", "CompDecom.csproj", "{6D017375-D053-4C85-A45A-970490F692DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "..\ConsoleApp\ConsoleApp.csproj", "{80CD404C-139C-4E92-B686-CA94C18FD723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{6D017375-D053-4C85-A45A-970490F692DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6D017375-D053-4C85-A45A-970490F692DD}.Release|x64.ActiveCfg = Release|x64
 		{6D017375-D053-4C85-A45A-970490F692DD}.Release|x64.Build.0 = Release|x64
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Debug|x64.ActiveCfg = Debug|x64
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Debug|x64.Build.0 = Debug|x64
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Release|x64.ActiveCfg = Release|x64
+		{80CD404C-139C-4E92-B686-CA94C18FD723}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

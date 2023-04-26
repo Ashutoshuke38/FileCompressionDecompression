@@ -4,10 +4,6 @@ using FATCorp.CryptoComponents.EncryptDecrypt;
 
 namespace FATCorp.CryptoComponents
 {
-    /// <summary>
-    ///  Base class of all Compress and decompress classes
-    /// </summary>
-    /// <typeparam name="T"></typeparam>
     public abstract class ICompressExtract<T> where T: new()
     {
         protected EncryptorDecryptor encryptorDecryptor;
